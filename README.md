@@ -4,5 +4,12 @@ Alura-Midi é projeto construído na conclusão do curso JavaScript para Web: Cr
 
 ![image](https://github.com/DiogoSaimon/alura-midi/assets/86212446/7a0c2a81-0723-40a4-8f9a-c54f76659676)
 
+Nesse curso de JS, mexemos:
+- com seletores do DOM,
+- atribuição de funções no onclick,
+- loop de repetição,
+- como conseguir nomes de teclas ou classes,
+- condicionais.
+
 
 
