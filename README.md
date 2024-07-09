@@ -13,3 +13,4 @@ Nesse curso de JS, mexemos:
 
 
 
+Caso deseje visualizar o resultado online, segue o link: https://alura-midi-five-ecru.vercel.app/
